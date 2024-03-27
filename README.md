@@ -25,10 +25,10 @@ FUTURE UPDATES:
 1) Forget password or change for admin.
 2) Option to modify company details.
 3) Option for Interviewers account creation and login
-4) So see which interviewer conducted for which candidates.
+4) Limit of person that a  interviewer can conduct interview of candidates.
 5) Candidate details update features.
 6) Interviewers deyails update features.
 7) Interviewers can see which candidates are alloted to them.
-8) Limit of person that a  interviewer can conduct interview of candidates.
+8) option to see the qualified candidates.
 9) Option for marks allotment for candidates.
-10) option to see the qualified candidates.
+
